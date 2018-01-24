@@ -1,0 +1,22 @@
+{
+  "name": "cob-retirement",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "scripts": {
+    "start": "start-storybook --port 3000 -c storybook"
+  },
+  "dependencies": {
+    "@storybook/react": "^3.3.10",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "babel-core": "^6.26.0",
+    "rc-slider": "^8.6.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "CC0-1.0"
+}
